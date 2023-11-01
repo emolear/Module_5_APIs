@@ -5,4 +5,4 @@ Project Overview: This project consists of two main tools aimed at helping credi
 
 Personal Finance Planner: This tool assists users in visualizing their savings, factoring in investments in shares and cryptocurrencies. This helps assess whether they possess a sufficient emergency fund.
 
-Retirement Planning Tool: Leveraging the Alpaca API, this tool fetches historical closing prices for a retirement portfolio made up of stocks and bonds. It then performs Monte Carlo simulations to project the potential performance of this portfolio over 30 years
+Retirement Planning Tool: Leveraging the Alpaca API, this tool fetches historical closing prices for a retirement portfolio made up of stocks and bonds. It then performs Monte Carlo simulations to project the potential performance of this portfolio over 30 years.
